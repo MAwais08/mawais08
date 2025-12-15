@@ -23,14 +23,13 @@
 
 I'm a passionate **Software Engineer** from 🇵🇰 Pakistan, specializing in building modern, scalable web applications with **AI integration** and cutting-edge technologies. I transform complex problems into elegant, production-ready solutions.
 
-```javascript
-💡 Quick Facts
-├── 🔭 Currently: Building AI-powered SaaS platforms & automation tools
-├── 🌱 Learning: Advanced AI/ML, System Design, Cloud Architecture
-├── 💼 Status: Open for freelance & remote opportunities
-├── 🎯 Focus: Full-Stack Development + AI Integration
-└── ⚡ Passion: Automating workflows & solving real-world problems
-```
+### 💡 Quick Facts
+
+- 🔭 **Currently:** Building AI-powered SaaS platforms & automation tools
+- 🌱 **Learning:** Advanced AI/ML, System Design, Cloud Architecture
+- 💼 **Status:** Open for freelance & remote opportunities
+- 🎯 **Focus:** Full-Stack Development + AI Integration
+- ⚡ **Passion:** Automating workflows & solving real-world problems
 
 ---
 
